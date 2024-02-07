@@ -1,0 +1,14 @@
+D:\Intern\ConsoleApp\Deterministic\bin\Debug\net8.0\Deterministic.exe
+D:\Intern\ConsoleApp\Deterministic\bin\Debug\net8.0\Deterministic.deps.json
+D:\Intern\ConsoleApp\Deterministic\bin\Debug\net8.0\Deterministic.runtimeconfig.json
+D:\Intern\ConsoleApp\Deterministic\bin\Debug\net8.0\Deterministic.dll
+D:\Intern\ConsoleApp\Deterministic\bin\Debug\net8.0\Deterministic.pdb
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\Deterministic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\Deterministic.AssemblyInfoInputs.cache
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\Deterministic.AssemblyInfo.cs
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\Deterministic.csproj.CoreCompileInputs.cache
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\Deterministic.dll
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\refint\Deterministic.dll
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\Deterministic.pdb
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\Deterministic.genruntimeconfig.cache
+D:\Intern\ConsoleApp\Deterministic\obj\Debug\net8.0\ref\Deterministic.dll

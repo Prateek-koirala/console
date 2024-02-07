@@ -1,0 +1,14 @@
+D:\Intern\ConsoleApp\CompositionFunction\bin\Debug\net8.0\CompositionFunction.exe
+D:\Intern\ConsoleApp\CompositionFunction\bin\Debug\net8.0\CompositionFunction.deps.json
+D:\Intern\ConsoleApp\CompositionFunction\bin\Debug\net8.0\CompositionFunction.runtimeconfig.json
+D:\Intern\ConsoleApp\CompositionFunction\bin\Debug\net8.0\CompositionFunction.dll
+D:\Intern\ConsoleApp\CompositionFunction\bin\Debug\net8.0\CompositionFunction.pdb
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\CompositionFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\CompositionFunction.AssemblyInfoInputs.cache
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\CompositionFunction.AssemblyInfo.cs
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\CompositionFunction.csproj.CoreCompileInputs.cache
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\CompositionFunction.dll
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\refint\CompositionFunction.dll
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\CompositionFunction.pdb
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\CompositionFunction.genruntimeconfig.cache
+D:\Intern\ConsoleApp\CompositionFunction\obj\Debug\net8.0\ref\CompositionFunction.dll

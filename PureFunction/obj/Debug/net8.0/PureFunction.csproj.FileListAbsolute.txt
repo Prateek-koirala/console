@@ -1,0 +1,14 @@
+D:\Intern\ConsoleApp\PureFunction\bin\Debug\net8.0\PureFunction.exe
+D:\Intern\ConsoleApp\PureFunction\bin\Debug\net8.0\PureFunction.deps.json
+D:\Intern\ConsoleApp\PureFunction\bin\Debug\net8.0\PureFunction.runtimeconfig.json
+D:\Intern\ConsoleApp\PureFunction\bin\Debug\net8.0\PureFunction.dll
+D:\Intern\ConsoleApp\PureFunction\bin\Debug\net8.0\PureFunction.pdb
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\PureFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\PureFunction.AssemblyInfoInputs.cache
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\PureFunction.AssemblyInfo.cs
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\PureFunction.csproj.CoreCompileInputs.cache
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\PureFunction.dll
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\refint\PureFunction.dll
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\PureFunction.pdb
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\PureFunction.genruntimeconfig.cache
+D:\Intern\ConsoleApp\PureFunction\obj\Debug\net8.0\ref\PureFunction.dll

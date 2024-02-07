@@ -1,0 +1,14 @@
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Intern\ConsoleApp\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\Intern\ConsoleApp\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\Intern\ConsoleApp\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+D:\Intern\ConsoleApp\Inheritance\bin\Debug\net8.0\Inheritance.dll
+D:\Intern\ConsoleApp\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\Inheritance.dll
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\Intern\ConsoleApp\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

@@ -1,0 +1,14 @@
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\DateIntoDays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\DateIntoDays.AssemblyInfoInputs.cache
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\DateIntoDays.AssemblyInfo.cs
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\DateIntoDays.csproj.CoreCompileInputs.cache
+D:\Intern\ConsoleApp\DateIntoDays\bin\Debug\net8.0\DateIntoDays.exe
+D:\Intern\ConsoleApp\DateIntoDays\bin\Debug\net8.0\DateIntoDays.deps.json
+D:\Intern\ConsoleApp\DateIntoDays\bin\Debug\net8.0\DateIntoDays.runtimeconfig.json
+D:\Intern\ConsoleApp\DateIntoDays\bin\Debug\net8.0\DateIntoDays.dll
+D:\Intern\ConsoleApp\DateIntoDays\bin\Debug\net8.0\DateIntoDays.pdb
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\DateIntoDays.dll
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\refint\DateIntoDays.dll
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\DateIntoDays.pdb
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\DateIntoDays.genruntimeconfig.cache
+D:\Intern\ConsoleApp\DateIntoDays\obj\Debug\net8.0\ref\DateIntoDays.dll

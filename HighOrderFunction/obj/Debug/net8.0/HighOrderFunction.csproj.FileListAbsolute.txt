@@ -1,0 +1,14 @@
+D:\Intern\ConsoleApp\HighOrderFunction\bin\Debug\net8.0\HighOrderFunction.exe
+D:\Intern\ConsoleApp\HighOrderFunction\bin\Debug\net8.0\HighOrderFunction.deps.json
+D:\Intern\ConsoleApp\HighOrderFunction\bin\Debug\net8.0\HighOrderFunction.runtimeconfig.json
+D:\Intern\ConsoleApp\HighOrderFunction\bin\Debug\net8.0\HighOrderFunction.dll
+D:\Intern\ConsoleApp\HighOrderFunction\bin\Debug\net8.0\HighOrderFunction.pdb
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\HighOrderFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\HighOrderFunction.AssemblyInfoInputs.cache
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\HighOrderFunction.AssemblyInfo.cs
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\HighOrderFunction.csproj.CoreCompileInputs.cache
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\HighOrderFunction.dll
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\refint\HighOrderFunction.dll
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\HighOrderFunction.pdb
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\HighOrderFunction.genruntimeconfig.cache
+D:\Intern\ConsoleApp\HighOrderFunction\obj\Debug\net8.0\ref\HighOrderFunction.dll

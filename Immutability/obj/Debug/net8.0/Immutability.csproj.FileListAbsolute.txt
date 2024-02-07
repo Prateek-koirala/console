@@ -1,0 +1,14 @@
+D:\Intern\ConsoleApp\Immutability\bin\Debug\net8.0\Immutability.exe
+D:\Intern\ConsoleApp\Immutability\bin\Debug\net8.0\Immutability.deps.json
+D:\Intern\ConsoleApp\Immutability\bin\Debug\net8.0\Immutability.runtimeconfig.json
+D:\Intern\ConsoleApp\Immutability\bin\Debug\net8.0\Immutability.dll
+D:\Intern\ConsoleApp\Immutability\bin\Debug\net8.0\Immutability.pdb
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\Immutability.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\Immutability.AssemblyInfoInputs.cache
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\Immutability.AssemblyInfo.cs
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\Immutability.csproj.CoreCompileInputs.cache
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\Immutability.dll
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\refint\Immutability.dll
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\Immutability.pdb
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\Immutability.genruntimeconfig.cache
+D:\Intern\ConsoleApp\Immutability\obj\Debug\net8.0\ref\Immutability.dll
